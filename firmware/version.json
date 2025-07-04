@@ -1,4 +1,1 @@
-{
-  "tag_name": "v5.1.7.1",
-  "info": "🔧 **Änderungen in Version 5.1.7.1**\n\n- Neue Bluetooth-Funktionalität\n- Optimierte Stromsparlogik\n- 🔄 Stabilere WLAN-Verbindung\n- 🐞 Fehlerbehebung beim Start\n"
-}
+{ "version": "v5.1.8.0", "file": "BBX200Pro_v5.1.8.0.bin", "html": "<ul>\n<li>Updates zukünftig direkt Online laden.</li>\n<li>Home Assistant Discovery updates:\n<ul>\n<li>suggested_display_precision für alle Spannunsgwerte (V)</li>\n<li>SOC auch in Ah.</li>\n</ul></li>\n</ul>\n" }
