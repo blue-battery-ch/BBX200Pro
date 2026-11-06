@@ -1,1 +1,1 @@
-{ "version": "v5.2.0.0", "file": "BBX200Pro_v5.2.0.0.bin", "html": "<ul>\n<li>zuverlässige Verlaufsabfrage<br />\n</li>\n<li>Bordspitzenstrom/Tag entladen korrigiert</li>\n<li>Sync bei Kleinstladung stabiler<br />\n</li>\n<li>Fahrzeugspannung korrekt<br />\n</li>\n<li>Votronic Tripple, Victron MPPT kompatibler</li>\n</ul>\n" }
+{ "version": "v5.3.0.0", "file": "bbx200pro-esp32c3_5.3.0.0.bin", "html": "<ul>\n<li>Adds Victron Orion XS booster support via VE.direct connection. Use\nVE.direct to RJ12 Adapter at Booster input when combined with MPPT.</li>\n</ul>\n" }
